@@ -5,8 +5,8 @@ Tip: Keep it simple, visual, and scannable. Refresh sections as your work evolve
 
 <!-- Hero -->
 <div align="center">
-  <h1>Hi, I'm <b>⟦Your Name⟧</b> <span>👋</span></h1>
-  <p><i>⟦Short tagline, e.g., Front‑End Developer • UI/UX Enthusiast • Lifelong Learner⟧</i></p>
+  <h1>Hi, I'm <b>Mohammad Ismail</b> <span>👋</span></h1>
+  <p><i>AI & Robotics engineer • Aspiring Backend Developer (ASP.NET) • Frontend Developer (HTML, CSS, JS) • Data Science Enthusiast • Robotics & Arduino Trainer • Skilled in Automation (n8n)</i></p>
 
   <!-- Quick links -->
   <a href="⟦https://your-portfolio.com⟧">
