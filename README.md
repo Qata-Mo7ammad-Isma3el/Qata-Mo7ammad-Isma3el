@@ -2,7 +2,7 @@
   <h1>Hi, I'm <b>Mohammad Ismail</b> 👋</h1>
   <p>
     <i>
-      AI & Robotics Engineer · Aspiring Backend Developer (ASP.NET) · Frontend Developer (HTML, CSS, JS) · Data Science Enthusiast · Robotics & Arduino Trainer · Automation Specialist
+      AI & Robotics Engineer · Aspiring Backend Developer (ASP.NET) · Frontend Developer (HTML, CSS, JS) · Data Science Enthusiast · Robotics & Arduino Trainer · n8n Automation Specialist 
     </i>
   </p>
   <!-- Quick links -->
